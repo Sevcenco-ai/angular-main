@@ -1,0 +1,11 @@
+<div class="wrapper">
+  <div *ngFor="let laptop of laptops" class="card">
+    <p class="title">{{laptop.title}}</p>
+    <img src="{{laptop.image}}" alt="{{laptop.title}}"/>
+    <p class="description">{{laptop.description}}</p>
+    <div class="price" *ngIf="laptop.availability">
+      <span>{{laptop.price}} lei</span>
+      <button>Buy</button>
+    </div>
+  </div>
+</div>

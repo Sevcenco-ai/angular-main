@@ -1,0 +1,11 @@
+<div class="wrapper">
+  <div *ngFor="let gamingDevice of gamingDevices" class="card">
+    <p class="title">{{gamingDevice.title}}</p>
+    <img src="{{gamingDevice.image}}" alt="{{gamingDevice.title}}"/>
+    <p class="description">{{gamingDevice.description}}</p>
+    <div class="price" *ngIf="gamingDevice.availability">
+      <span>{{gamingDevice.price}} lei</span>
+      <button>Buy</button>
+    </div>
+  </div>
+</div>

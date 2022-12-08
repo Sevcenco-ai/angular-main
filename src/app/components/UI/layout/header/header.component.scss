@@ -1,0 +1,59 @@
+.nav{
+  background-color: #101010;
+  padding: 15px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  > ul {
+    display: flex;
+    > li {
+      :hover{
+        background-color: #262626;
+        border-radius: 20px;
+      }
+      > a {
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        gap: 15px;
+        font-weight: 500;
+        color: #EDEDED;
+        font-size: 24px;
+        padding: 15px;
+        &:hover{
+          color: darkgoldenrod;
+        }
+        &.active{
+            color: darkgoldenrod;
+            background-color: #262626;
+            border-radius: 20px;
+        }
+      }
+    }
+  }
+  input{
+    border-radius: 15px;
+    height: 40px;
+    width: 300px;
+    font-size: 18px;
+    padding: 0 15px;
+  }
+
+  .login{
+    font-weight: 500;
+    color: #EDEDED;
+    font-size: 24px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: left;
+    &:hover{
+      color: darkgoldenrod;
+    }
+    .mat-icon{
+      font-size: 28px;
+    }
+  }
+}

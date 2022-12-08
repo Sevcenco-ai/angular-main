@@ -1,0 +1,172 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "title": "Iphone 14 Pro",
+      "availability": false,
+      "price": 35000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2022/10/darwin-apple-iphone-14-pro-6-gb-128-gb-space-black-036.webp"
+    },
+    {
+      "id": 2,
+      "title": "Xiaomi Redmi Note 10S",
+      "availability": true,
+      "price": 4999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2021/06/darwin-xiaomi-redmi-note-10s-6-gb-128-gb-blue-061.webp"
+    },
+    {
+      "id": 3,
+      "title": "OnePlus Nord 2 5G ",
+      "availability": true,
+      "price": 9499,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2021/08/darwin-oneplus-nord-2-5g-12-gb-256-gb-gray-09.webp"
+    },
+    {
+      "id": 4,
+      "title": "Samsung Galaxy M52",
+      "availability": true,
+      "price": 8499,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://unboxdiaries.com/wp-content/uploads/2022/03/12-500x500-1.png"
+    }
+  ],
+  "laptops": [
+    {
+      "id": 5,
+      "title": "Acer Predator Helios 300",
+      "availability": true,
+      "price": 31990,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://images.acer.com/is/image/acer/Predator-Helios-300-PH-317-55-Backliton-Black-01a-1?$Product-Cards-XL$"
+    },
+    {
+      "id": 6,
+      "title": "HP ENVY x360 15-eu0009",
+      "availability": true,
+      "price": 21990,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://e7.pngegg.com/pngimages/270/398/png-clipart-laptop-intel-core-hp-envy-hewlett-packard-laptop-electronics-netbook.png"
+    },
+    {
+      "id": 7,
+      "title": "Apple MacBook Air 13 2020",
+      "availability": true,
+      "price": 24990,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 8,
+      "title": "Lenovo IdeaPad Gaming 3 HGRE",
+      "availability": true,
+      "price": 19990,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8MTEzNTkxfGltYWdlL3BuZ3xoMzgvaDQ1LzExNjcwNjY2OTAzNTgyLnBuZ3w1MmZiMDA1MWUxMmY5YWRhYTY4YjJkYjc5YWZhMjUzYWQzYzZkZDViYWYwYWM5ZDE4MTY0NTRlNjBkMDBkOGYx"
+    }
+  ],
+  "gaming": [
+    {
+      "id": 9,
+      "title": "Sony PlayStation 5",
+      "availability": true,
+      "price": 18999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$"
+    },
+    {
+      "id": 10,
+      "title": "Nintendo Switch Oled Model White",
+      "availability": true,
+      "price": 9999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2022/05/consola-portabila-pentru-jocuri-nintendo-switch-oled-model-white-243.webp"
+    },
+    {
+      "id": 11,
+      "title": "Microsoft Xbox Series X",
+      "availability": true,
+      "price": 17999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2022/01/darwin-consola-pentru-jocuri-microsoft-xbox-series-x-black-192.webp"
+    },
+    {
+      "id": 12,
+      "title": "Microsoft Xbox Series S",
+      "availability": true,
+      "price": 7999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2021/09/darwin-consola-pentru-jocuri-microsoft-xbox-series-s-white-149.webp"
+    }
+  ],
+  "audio": [
+    {
+      "id": 13,
+      "title": "Apple AirPods PRO with MagSafe",
+      "availability": true,
+      "price": 5399,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2021/11/darwin-casti-apple-airpods-pro-white-330.webp"
+    },
+    {
+      "id": 14,
+      "title": "JBL Flip 5 Black",
+      "availability": true,
+      "price": 2499,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2022/05/darwin-boxa-portabila-jbl-flip-5-black-215.webp"
+    },
+    {
+      "id": 15,
+      "title": "Harman Kardon Citation 300",
+      "availability": true,
+      "price": 7999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2020/07/harman_kardon_citation_gray_300_1.webp"
+    },
+    {
+      "id": 16,
+      "title": "JBL Speakers 2.1 2.1 Deep Bass",
+      "availability": true,
+      "price": 7999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2022/10/darwin-soundbar-jbl-speakers-21-21-deep-bass-black-087.webp"
+    }
+  ],
+  "gadgets": [
+    {
+      "id": 18,
+      "title": "Apple Watch Series 7",
+      "availability": true,
+      "price": 7999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2021/10/darwin-ceas-inteligent-apple-watch-series-7-mkmy3wba-starlight-129.webp"
+    },
+    {
+      "id": 19,
+      "title": "VR Oculus Quest 2 128 GB",
+      "availability": true,
+      "price": 13499,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2021/09/darwin-ochelari-vr-oculus-quest-2-white-282.webp"
+    },
+    {
+      "id": 20,
+      "title": "DJI Phantom 4 Multispectral ",
+      "availability": true,
+      "price": 188249,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2022/07/drona-dji-phantom-4-multispectral-d-rtk2-gnss-mobile-station-white-017.webp"
+    },
+    {
+      "id": 21,
+      "title": "Roborock S6 MaxV",
+      "availability": true,
+      "price": 12999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur, dolorem esse expedita, facere libero nemo neque, nihil nulla odio pariatur quae velit voluptatem. Dicta explicabo porro quas quis vitae.",
+      "image": "https://darwin.md/images/product/2022/10/darwin-robot-aspirator-roborock-s6-maxv-black-039.webp"
+    }
+  ]
+}
